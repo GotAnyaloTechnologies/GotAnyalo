@@ -103,7 +103,7 @@ h1 {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  background: #17a185;
+  background: #000000;
   color: #fff;
 }
 .navbar-default .navbar-brand {
@@ -319,7 +319,7 @@ h1 {
   border-radius: 50px;
 }
 .social-icon a:hover {
-  background: #17a185;
+  background: #000000;
 }
 .img-small {
   height: 88px;
