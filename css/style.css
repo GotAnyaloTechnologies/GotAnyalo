@@ -149,11 +149,11 @@ h1 {
   width: 100%;
 }
 .header-back.one {
-  /*background: url('../img/header_one.png') 50% 0 no-repeat;*/
+  background: url('../img/header_one.png') 50% 0 no-repeat;
   background-color: #ffffff;
 }
 .header-back.two {
-  /*background: url('../img/header_two.png') 50% 0 no-repeat;*/
+  background: url('../img/header_two.png') 50% 0 no-repeat;
   background-color: #ffffff;
 }
 /* CUSTOMIZE THE CAROUSEL
