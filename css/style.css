@@ -16,6 +16,8 @@ span.navy {
 p.text-color {
   color: #000000;
   font-style: normal;
+  margin-top: 10px;
+  font-size: 50px;
   
 }
 a.navy-link {
