@@ -14,7 +14,7 @@ span.navy {
   color: #000000;
 }
 p.text-color {
-  color: #676a6c;
+  color: #000000;
 }
 a.navy-link {
   color: #000000;
@@ -45,7 +45,7 @@ h2 {
 h5 {
    color:#000000;
    margin-top: 10px;
-   font-size: 20px;
+   font-size: 10px;
 }
 .navy-line {
   width: 60px;
